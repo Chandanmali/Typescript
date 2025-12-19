@@ -1,3 +1,5 @@
+//number, boolean, string done
+
 function add(num1 : number, num2 : number, res : boolean, statement : string){
     if(res === true)
     {
